@@ -1,0 +1,12 @@
+{
+  "name": "task-board",
+  "description": "File-based task tracking for coding agents: a tasks/ board with active, backlog and completed folders, one file per task, and a guard script that checks the board.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hang Franco"
+  },
+  "homepage": "https://github.com/Hangtu/agent-task-board-skill",
+  "repository": "https://github.com/Hangtu/agent-task-board-skill",
+  "license": "MIT",
+  "keywords": ["tasks", "task-board", "workflow", "planning", "skills"]
+}

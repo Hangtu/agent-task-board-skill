@@ -1,0 +1,18 @@
+{
+  "name": "agent-task-board-skill",
+  "description": "Marketplace for the task-board skill",
+  "owner": {
+    "name": "Hang Franco"
+  },
+  "plugins": [
+    {
+      "name": "task-board",
+      "description": "File-based task tracking for coding agents: a tasks/ board with active, backlog and completed folders, one file per task, and a guard script that checks the board.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Hang Franco"
+      }
+    }
+  ]
+}
